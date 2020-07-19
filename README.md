@@ -1,2 +1,2 @@
 # AppOrchard_HomePage
-Overview of App Orchard Home Page Project
+Pictures and description of my work on the App Orchard home page.
